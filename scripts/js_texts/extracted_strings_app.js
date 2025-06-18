@@ -89,7 +89,7 @@ module.exports = [
     'Demo Financial STP',
     'Demo Synthetic',
     'Deposits and withdrawals have been disabled on your account. Please check your email for more details.',
-    'Deriv Apps',
+    'Options accounts',
     'Digit',
     'Digit Differs',
     'Digit Even',
